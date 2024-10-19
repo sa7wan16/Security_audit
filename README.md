@@ -1,1 +1,3 @@
-# Security_audit
+# Security Audit
+
+This project involves a comprehensive security audit of Botium Toys' entire security program, including its assets, internal network, and systems. The audit aims to assess the existing assets and controls, identify compliance gaps, and recommend best practices to improve Botium Toys' security posture. Key areas of focus include asset management, access control, data encryption, intrusion detection, disaster recovery, and adherence to U.S. and international regulatory standards. The project also evaluates risks associated with inadequate controls, providing actionable insights to enhance security and minimize vulnerabilities.
